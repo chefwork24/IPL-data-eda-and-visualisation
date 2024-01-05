@@ -1,5 +1,5 @@
 
-# IPL DATA ANSYLIS AND VISUALISATION
+# IPL DATA ANALYSIS AND VISUALISATION
 
 
 
@@ -10,7 +10,7 @@ This project involves the analysis and visualization of IPL data, encompassing v
 
 ## SAMPLE
 
-https://github.com/chefwork24/IPL-data-eda-and-visualisation/blob/main/Screenshot%202024-01-05%20120352.png
+![](Screenshot 2024-01-05 120352.png)
 
 
 ## Acknowledgements
